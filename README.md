@@ -1,4 +1,5 @@
 # Human Gesture-Based Robot Telemanipulation
+Real-time hand gesture recognition (MediaPipe + OpenCV) for teleoperating a Kinova Gen3 arm in simulation using ROS2 and RelaxedIK.
 
 ## Demo
 
