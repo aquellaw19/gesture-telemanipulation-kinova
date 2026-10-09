@@ -18,6 +18,16 @@ Arm movement runs continuously when the system is active, based on wrist landmar
 ![Pipeline Diagram](pipeline.png)
 
 ## Dependencies
+- Ubuntu 24.04
+- ROS2 Jazzy
+- [relaxed_ik_ros2](https://github.com/uwgraphics/relaxed_ik_ros2)
+- [ros2_kortex](https://github.com/Kinovarobotics/ros2_kortex) (KINOVA Gen3 support)
+- Gazebo Harmonic (`ros-jazzy-ros-gz`) *(planned for pick-and-place)*
+- Python 3.12
+- MediaPipe 0.10.13
+- OpenCV 4.8.1
+- NumPy < 2
+- Rust (for RelaxedIK core compilation)
 
 ## Installation & Setup
 
