@@ -1,2 +1,21 @@
-# gesture-telemanipulation-kinova
-Real-time hand gesture recognition (MediaPipe + OpenCV) for teleoperating a Kinova Gen3 arm in simulation via ROS2 and MoveIt2.
+# Human Gesture-Based Robot Telemanipulation
+
+## Demo
+
+## Gesture Mapping
+
+| Gesture | Action | Logic |
+|---------|--------|-------|
+| | | |
+
+## System Architecture
+
+## Dependencies
+
+## Installation & Setup
+
+## Usage
+
+## Known Limitations
+
+## Acknowledgements
