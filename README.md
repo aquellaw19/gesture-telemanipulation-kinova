@@ -15,6 +15,7 @@ Real-time hand gesture recognition (MediaPipe + OpenCV) for teleoperating a Kino
 Arm movement runs continuously when the system is active, based on wrist landmark position. Gestures trigger gripper commands.
 
 ## System Architecture
+![Pipeline Diagram](pipeline.png)
 
 ## Dependencies
 
